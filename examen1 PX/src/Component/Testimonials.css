@@ -1,0 +1,115 @@
+.testimonials-page {
+    padding: 20px;
+  }
+  
+  .testimonial-slider {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  .testimonial-slider .testimonial {
+    display: none;
+  }
+  
+  .testimonial-slider .testimonial.active {
+    display: block;
+  }
+  
+  .testimonial-info {
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-info h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .testimonial-info p {
+    font-size: 14px;
+    color: #888;
+  }
+  
+  .testimonial-content {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-rating {
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-rating .star {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    margin-right: 5px;
+  }
+  
+  .testimonial-buttons {
+    margin-top: 10px;
+  }
+  
+  .edit-button,
+  .delete-button {
+    padding: 5px 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  
+
+  .add-testimonial-form h4 {
+    margin-bottom: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 5px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .form-groupi {
+    margin-bottom: 10px;
+    justify-content: center;
+  }
+  
+  
+  .btn-primary {
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  .testimonial-rating {
+    margin-top: 10px;
+  }
+  
+  .star {
+    color: gold;
+  }
+  
